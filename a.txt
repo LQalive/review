@@ -1,5 +1,3 @@
-hello
-<<<<<<< HEAD
-wor
-123d
+hello word
+liuqi
 
